@@ -60,7 +60,7 @@ Guides you through researching any topic using only read-only methods and output
 
 9. Read your structured output. Does it answer your three research questions? If not, note which question needs more research and run one more targeted search.
 
-10. 
+10. Review your structured output one final time. Then manually copy it into your own notes or document if you want to keep it. Use any file name you choose.
 
 ---
 
